@@ -1,6 +1,8 @@
 # Deep-Counter
 
-This program performs counting amount of the garbage bag.
+This program performs counting the number of the garbage bag.
 
-Counter.py is the counting program.
+counter.py is the counting program.
+
+train/test/eval.py use to learn and test to predict models.
 
