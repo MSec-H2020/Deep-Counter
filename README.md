@@ -1,8 +1,12 @@
 # Deep-Counter
+This program performs counting the number of garbage bags in Japan by using deep learning and images.
+If you want to count garbage bugs on the image, you can use this program.
 
-This program performs counting the number of the garbage bag.
-
+# Detection Program.
 counter.py is the counting program.
+you use this when you want to detect garbage bags.
 
-train/test/eval.py use to learn and test to predict models.
+# About learning models
+train/test/eval.py is used to learn and test to predict models.
 
+the weight file is put on the 'weights' folder.
